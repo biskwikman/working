@@ -8,7 +8,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"lint": "eslint ./src --ext .js,.jsx,.ts,.tsx"
 	},
-	"author": "supertommy",
+	"author": "Dan Henri",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
